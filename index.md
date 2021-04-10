@@ -14,6 +14,11 @@ Hello I'm Kris Haro. I am a current Electrical and Computer Engineering student 
 **MATLAB**
 - Used primarily to graph data collected from other parts of a project.
 
+**Assembly**
+- AVR instruction set
+- Used in previous computer organization class to work on a lab kit built on the ATmega128
+- Familiar with Microchip Studio
+
 **Python**
 - Newest language learned, currently tweaking a Discord bot to use in a server with my friends.
 
