@@ -22,6 +22,8 @@ Hello I'm Kris Haro. I am a current Electrical and Computer Engineering student 
 **Python**
 - Newest language learned, currently tweaking a Discord bot to use in a server with my friends.
 
+__Curenntly learning: JavaScript__
+
 # Projects
 Each one of my larger scale projects has their own dedicated website. Go check them out! I'll be adding a website for the Discord bot soon.
 ## [Musical Note FFT](https://krisharo.github.io/341AP2020/)
