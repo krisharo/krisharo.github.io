@@ -22,7 +22,7 @@ Hello I'm Kris Haro. I am a current Electrical and Computer Engineering student 
 **Python**
 - Newest language learned, currently tweaking a Discord bot to use in a server with my friends.
 
-__Curenntly learning: JavaScript__
+__Curenntly learning: HTML & CSS to eventually make this website truly mine!__
 
 # Projects
 Each one of my larger scale projects has their own dedicated website. Go check them out! I'll be adding a website for the Discord bot soon.
